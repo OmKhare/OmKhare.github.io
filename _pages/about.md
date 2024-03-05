@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>College Of Engineering Pune Technological University</a>
+subtitle: <a href='https://www.coep.org.in/'>College Of Engineering Pune Technological University</a>
 
 profile:
   align: right
@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! My name is Om, and I'm an avid problem solver with a strong dedication to leveraging my skills in pursuit of innovative solutions. My expertise span broadly across the field - from full stack web development and system design to machine learning and artificial intelligence.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently I am a final year student pursuing Bachelors in Technology from COEP Technological University. Throughout my academic journey, I have held various positions of responsibility, fostering a passion for collaboration and teamwork. With a mix of professional and research experience, I have been exposed to different challenges which have honed my skills and broadened my perspective, ultimately shaping me into a versatile and adaptable individual. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond my technical acumen, I love to stay abreast of current technology trends, constantly seeking opportunities to enhance my knowledge and skills in this rapidly evolving field. I also actively invest in the stock market, finding it to be an engaging pursuit that complements my broader interests. In my free time, I like to travel, hike at nearby hills, push myself to new limits while weight lifting at the gym, and watch tv shows or movies.
