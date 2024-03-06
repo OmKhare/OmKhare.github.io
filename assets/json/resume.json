@@ -7,6 +7,18 @@
     "phone": "(91) 7709598773",
     "url": "https://omkhare.github.io/"
   },
+  "education": [
+    {
+      "institution": "College of Engineering Pune Technological University",
+      "url": "https://www.uzh.ch/",
+      "area": "Computer Engineering",
+      "studyType": "B. Tech",
+      "startDate": "2021-01-01",
+      "endDate": "2024-05-01",
+      "score": "10",
+      "courses": ["9.24 CGPA","Honors in Data Science"]
+    }
+  ],
   "work": [
     {
       "name": "Technology Summer Analyst",
@@ -27,98 +39,10 @@
     {
       "name": "Research Assistant",
       "location": "Pune, India",
-      "position": "High Explosives Factory, Khadki, Pune",
-      "startDate": "2022-07-01",
-      "endDate": "2023-09-01",
+      "position": "Mechanical Department, Cummins College of Engineering, Pune",
+      "startDate": "2023-01-01",
+      "endDate": "2023-02-01",
       "highlights": ["Worked under the guidance of Prof Abhishek Patange to explore the application of machine learning with an emphasis on the white-box model in mechanical domain. 1 paper submitted to a journal."]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Project Manager",
-      "position": "Software Development Society, COEP",
-      "startDate": "2021-09-01",
-      "endDate": "Present",
-      "highlights": ["Core member of the student-led software development club in the college with 30 members. Responsible for overseeing client interactions and effectively coordinating project timelines and deliverables, ensuring successful project execution."]
-    },
-    {
-      "organization": "Web and App Head",
-      "position": "Mindspark Annual Technical Fest, COEP",
-      "startDate": "2022-07-01",
-      "endDate": "2023-02-01",
-      "highlights": ["Led a team of 20 coordinators to build and deploy the app and website for Mindspark’22, COEP’s Annual National Level Technical Fest, which got 30k+ unique visitors."]
-    },
-    {
-      "organization": "Volunteer",
-      "position": "Paakhi Initiative",
-      "startDate": "2022-06-01",
-      "endDate": "2023-02-01",
-      "highlights": ["Conducted an App Development Workshop using MIT AppInventor software for underprivileged girls from a rural school in Pune.", "Associated with the Paakhi initiative in providing laptops to rural schools in Pune."]
-    }
-  ],
-  "education": [
-    {
-      "institution": "College of Engineering Pune Technological University",
-      "url": "https://www.uzh.ch/",
-      "area": "Computer Engineering",
-      "studyType": "B. Tech",
-      "startDate": "2021-01-01",
-      "endDate": "2024-05-01",
-      "score": "10",
-      "courses": ["9.24 CGPA","Honors in Data Science"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -142,6 +66,39 @@
       "releaseDate": "2023-11-01",
       "url": "https://arxiv.org/abs/2310.14629",
       "summary": "In machining processes, monitoring the condition of the tool is a crucial aspect to ensure high productivity and quality of the product. Using different machine learning techniques in Tool Condition Monitoring TCM enables a better analysis of the large amount of data of different signals acquired during the machining processes. The real time force signals encountered during the process were acquired by performing numerous experiments. Different tool wear conditions were considered during the experimentation. A comprehensive statistical analysis of the data and feature selection using decision trees was conducted, and the KNN algorithm was used to perform classification. Hyperparameter tuning of the model was done to improve the models performance. Much research has been done to employ machine learning approaches in tool condition monitoring systems, however, a model agnostic approach to increase the interpretability of the process and get an in depth understanding of how the decision making is done is not implemented by many. This research paper presents a KNN based white box model, which allows us to dive deep into how the model performs the classification and how it prioritizes the different features included. This approach helps in detecting why the tool is in a certain condition and allows the manufacturer to make an informed decision about the tools maintenance."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Laboratory Inventory Management System (LIMS)",
+      "location": "Pune, India",
+      "position": "High Explosives Factory, Khadki, Pune",
+      "startDate": "2022-07-01",
+      "endDate": "2023-03-01",
+      "highlights": ["Served as Project Lead", "Project done for a chemical lab at an ordnance factory under Department of Computer Engineering, COEP Technological Univeristy"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Project Manager",
+      "position": "Software Development Society, COEP",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "highlights": ["Core member of the student-led software development club in the college with 30 members. Responsible for overseeing client interactions and effectively coordinating project timelines and deliverables, ensuring successful project execution."]
+    },
+    {
+      "organization": "Web and App Head",
+      "position": "Mindspark Annual Technical Fest, COEP",
+      "startDate": "2022-07-01",
+      "endDate": "2023-02-01",
+      "highlights": ["Led a team of 20 coordinators to build and deploy the app and website for Mindspark’22, COEP’s Annual National Level Technical Fest, which got 30k+ unique visitors."]
+    },
+    {
+      "organization": "Volunteer",
+      "position": "Paakhi Initiative",
+      "startDate": "2022-06-01",
+      "endDate": "2023-02-01",
+      "highlights": ["Conducted an App Development Workshop using MIT AppInventor software for underprivileged girls from a rural school in Pune.", "Associated with the Paakhi initiative in providing laptops to rural schools in Pune."]
     }
   ],
   "skills": [
@@ -193,6 +150,32 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "title": "Winner",
+      "date": "Nov, 2021",
+      "awarder": "Mindspark, COEP",
+      "url": "https://drive.google.com/file/d/1-rVQWYh5UbWZGsXbMFkUP_1_eHultGD3/view?usp=sharing",
+      "summary": "First prize amongst 120+ teams across the nation"
+    },
+    {
+      "title": "2nd Rank",
+      "date": "Jan, 2022",
+      "awarder": "PASCKATHON 3.0",
+      "summary": "2nd prize in Hackathon conducted by PICT College. Also got a chance to work for a startup"
+    },
+    {
+      "title": "2nd Rank",
+      "date": "Mar, 2022",
+      "awarder": "Inspiron '22",
+      "summary": "2nd prize in Hackathon conducted by Computer Society of India"
+    },
+    {
+      "title": "Finalist",
+      "date": "June, 2022",
+      "awarder": "Smart India Hackathon"
+    }
+  ],
   "languages": [
     {
       "language": "English",
@@ -207,16 +190,6 @@
     {
       "language": "Marathi",
       "fluency": "Native Speaker"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }

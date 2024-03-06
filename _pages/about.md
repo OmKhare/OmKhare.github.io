@@ -6,7 +6,7 @@ subtitle: <a href='https://www.coep.org.in/'>College Of Engineering Pune Technol
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic_color.jpeg
   image_circular: false # crops the image to make it circular
   more_info:
 

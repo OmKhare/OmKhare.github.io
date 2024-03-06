@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: PhD Admission Portal for COEP Tech
+description: Part of a team to create and host phd admission portal which is used by our university.
+img: assets/img/a1.png
 importance: 3
-category: fun
+redirect: https://phdadmission.coep.org.in/
 ---
 
 Every project has a beautiful feature showcase page.

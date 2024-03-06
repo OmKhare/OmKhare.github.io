@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Demand Paging in xv6
+description: Implemented Demand Paging support in xv6 operating system, as a course project for Operating Systems
+img: assets/img/x1.png
+importance: 3
+redirect: https://github.com/OmKhare/demand-paging
 ---
 
 Every project has a beautiful feature showcase page.
