@@ -194,7 +194,11 @@ let initTheme = (theme) => {
   setTheme(theme);
 };
 
-initTheme(localStorage.getItem("theme"));
+let savedTheme = localStorage.getItem("theme");
+if (savedTheme == null || savedTheme === "null") {
+  savedTheme = "dark"; // default to dark mode when no preference is saved
+}
+initTheme(savedTheme);
 
 document.addEventListener("DOMContentLoaded", function () {
   const mode_toggle = document.getElementById("light-toggle");
